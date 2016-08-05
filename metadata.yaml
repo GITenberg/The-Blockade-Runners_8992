@@ -1,0 +1,46 @@
+_repo: The-Blockade-Runners_8992
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: D'Anvers, N.
+    aliases:
+    - Bell, Nancy
+    - Bell, Nancy R. E. Meugens
+    - Bell, Mrs. Arthur
+    - Bell, Arthur, Mrs.
+    deathdate: 1933
+    gutenberg_agent_id: '1165'
+    url: http://www.gutenberg.org/2009/agents/1165
+creator:
+  author:
+    agent_name: Verne, Jules
+    aliases:
+    - Verne, Jules Gabriël
+    - Verne, Jules Gabriel
+    - Verne, Júlio
+    birthdate: 1828
+    deathdate: 1905
+    gutenberg_agent_id: '60'
+    url: http://www.gutenberg.org/2009/agents/60
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Jules_Verne
+    - http://fr.wikipedia.org/wiki/Jules_Verne
+    - http://pt.wikipedia.org/wiki/Júlio_Verne
+description: Cover; Title Page; Copyright Page; Table of Contents; The Dolphin; Getting
+  Under Sail; Things Are Not What They Seem; Crockston's Trick; The Shot From The
+  Iroquois, and Miss Jenny's Arguments; Sullivan Island Channel; A Southern General;
+  The Escape; Between Two Fires; St. Mungo.
+gutenberg_issued: '2005-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8992'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Blockades -- Fiction'
+- GITenberg
+title: The Blockade Runners
+url: http://www.gutenberg.org/ebooks/8992
